@@ -43,7 +43,7 @@ function Product({ id, title, price, description, category, image }) {
         </div>
       )}
 
-      <button className="mt-auto md:text-sm focus:outline-none focus:ring-2 focus:ring-yellow-500 active: from-yellow-500 button">
+      <button className="mt-auto md:text-sm focus:outline-none focus:ring-2 focus:ring-yellow-500 active:from-yellow-500 button">
         Add to Basket
       </button>
     </div>
